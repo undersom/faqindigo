@@ -7,12 +7,10 @@
 
 # Site settings
 title: "Indigo"
-email: gusquinalha@gmail.com
-description: "Simple and flexible Jekyll theme for help center."
+email: central@indigoeditoraelivraria.com.br
+description: "Dúvidas e respostas"
 baseurl: "/faq-indigo"
-url: "http://quinalha.me"
-twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
+url: "https://undersom.github.io/faqindigo/"
 color_theme:  "#FF7E00"
 color_text:  "#fff"
 language:  "en"
