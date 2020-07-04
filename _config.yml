@@ -9,7 +9,7 @@
 title: "Indigo"
 email: central@indigoeditoraelivraria.com.br
 description: "Dúvidas e respostas"
-baseurl: "/faq-indigo"
+baseurl: "/faqindigo"
 url: "https://undersom.github.io/faqindigo/"
 color_theme:  "#FF7E00"
 color_text:  "#fff"
