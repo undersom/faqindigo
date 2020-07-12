@@ -13,7 +13,7 @@ baseurl: "/faqindigo"
 url: ""
 color_theme:  "#FF7E00"
 color_text:  "#fff"
-language:  "en"
+language:  "pt-br"
 
 # Build settings
 markdown: kramdown
