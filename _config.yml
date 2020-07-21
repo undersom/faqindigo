@@ -25,11 +25,12 @@ paginate: 5
 plugins_dir:
   - jekyll-admin
 
-  collections:
+# Category
+collections:
   category:
     output: true
 
-    defaults:
+defaults:
   -
     scope:
       path: ""
