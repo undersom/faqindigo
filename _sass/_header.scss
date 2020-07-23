@@ -6,6 +6,7 @@
 }
 
 .header-fixed{
+  background: #000;
   position: sticky;
   top: 80px;
   z-index: 9;
@@ -13,7 +14,7 @@
 
 .header {
   min-height: 200px;
-  background: url('../assets/img/pattern2.svg'), rgba($colortheme, 1);
+  background: url('../assets/img/pattern2.svg'), rgba($colortheme, 0.9);
   background-size: 310px;
   width: 100%;
 
