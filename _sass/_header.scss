@@ -7,14 +7,14 @@
   background: url('../assets/img/pattern2.svg'), rgba($colortheme, .9);
   background-size: 310px;
   width: 100%;
-  position: sticky;
-  top: 0;
-  left: 0;
 
-  overflow: hidden;
 
   .header--block {
     color: $colortext;
+    position: sticky;
+    top: 0;
+    left: 0;
+    overflow: hidden;
 
     .header--block--text {}
 
