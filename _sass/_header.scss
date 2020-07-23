@@ -1,5 +1,8 @@
 .bg-header {
   background: #000
+  position: sticky;
+  top: 80px;
+  z-index: 9;
 }
 
 .header {
@@ -11,10 +14,6 @@
 
   .header--block {
     color: $colortext;
-    position: sticky;
-    top: 0;
-    left: 0;
-    overflow: hidden;
 
     .header--block--text {}
 
