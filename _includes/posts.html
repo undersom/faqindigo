@@ -5,7 +5,11 @@
 
   {{site.categories}}
 
-  {% include categories.html %}
+  {% for cat in site.categories %}
+    <li>
+      <a href="{{post.category}}">{{cat[0] | capitalize}}</a>
+    </li>
+
   <!--<a href="{{ site.baseurl }}{{ post.url }}" class="list-item container" data-aos="fade-up" data-aos-offset="0" data-aos-delay="100">
 
     <div class="list-item-icon container align-items-center justify-content-center">
@@ -30,5 +34,5 @@
     </div>
 
   </a>-->
-  <!--{% endfor %}--> {% endif %}
+  {% endfor %} {% endif %}
 </div>
