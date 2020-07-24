@@ -7,7 +7,7 @@
 
   {% for cat in site.categories %}
     <li>
-      <a href="/categories.html">{{cat[0] | capitalize}}</a>
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{cat[0] | capitalize}}</a>
     </li>
 
   <!--<a href="{{ site.baseurl }}{{ post.url }}" class="list-item container" data-aos="fade-up" data-aos-offset="0" data-aos-delay="100">
