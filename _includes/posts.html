@@ -1,13 +1,13 @@
 <div class="">
-  {% if site.posts.size == 0 %}
+  {% if site.cat.size == 0 %}
   <h2>No post found</h2>
   {% else %}
 
   {{site.categories}}
 
-  {% for post in site.posts %}
+  {% for cat in site.categories %}
     <li>
-      {{post.categories}}
+      <a href="">{{cat[0] | capitalize}}</a>
     </li>
 
   <!--<a href="{{ site.baseurl }}{{ post.url }}" class="list-item container" data-aos="fade-up" data-aos-offset="0" data-aos-delay="100">
