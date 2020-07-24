@@ -17,7 +17,7 @@ language:  "pt-br"
 
 # Build settings
 markdown: kramdown
-permalink: /:category/:title/
+permalink: /:categories/:title/
 gems: [jekyll-paginate]
 paginate: 5
 
