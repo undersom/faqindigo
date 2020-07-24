@@ -33,7 +33,7 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: "\_category"
       type: category
     values:
       layout: "category"
