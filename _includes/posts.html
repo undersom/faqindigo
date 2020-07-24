@@ -3,12 +3,10 @@
   <h2>No post found</h2>
   {% else %}
 
-  <ul>
   {% for post in site.posts %}
     <li>
       {{post.categories}}
     </li>
-  </ul>
 
   <!--<a href="{{ site.baseurl }}{{ post.url }}" class="list-item container" data-aos="fade-up" data-aos-offset="0" data-aos-delay="100">
 
