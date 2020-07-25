@@ -15,9 +15,9 @@ layout: default
         <div class="">
       <!--{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {{ post.date | date: date_format }}-->
-        <h3 class="list-post-title">
-        {{ post.title | escape }}
-        </h3>
+          <h3 class="list-post-title">
+          {{ post.title | escape }}
+          </h3>
       <!--{% if site.show_excerpts %}-->
             <div class="">
               <span class="list-post-description">
@@ -25,7 +25,7 @@ layout: default
               </span>
             </div>
         <!--{% endif %}-->
-          </div>  
+          </div>
         </div>
       </div>
       {%- endfor -%}
