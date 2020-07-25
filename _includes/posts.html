@@ -5,7 +5,7 @@
 
   {{site.categories}}
 
-  {% for cat in site.categories %}
+  {% for category in site.categories %}
     <li>
       <a href="{{site.baseurl}}/category/{{ category_name | slugize }}">{{cat[0] | capitalize}}</a>
     </li>
