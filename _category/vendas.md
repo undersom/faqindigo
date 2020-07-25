@@ -1,4 +1,4 @@
 ---
 tag: vendas
-permalink: "/category/vendas"
+permalink: "category/vendas"
 ---
