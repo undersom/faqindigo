@@ -5,23 +5,25 @@ layout: default
 
 {% include minutes-to-read.html %}
 
+{{content}}
+
 <!-- breadcrumbs -->
-<div class="size margin" data-aos="fade-right" data-aos-delay="100" data-aos-offset="0">
+<!--<div class="size margin" data-aos="fade-right" data-aos-delay="100" data-aos-offset="0">
   {% include breadcrumbs.html path=page.path title=page.categories %}
-</div>
+</div>-->
 <!-- breadcrumbs -->
 
-<div class="size margin min-height">
-  <article>
+<!--<div class="size margin min-height">
+  <article>-->
     <!-- titles -->
-    <h1 class="post-title" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">{{ page.categories }}</h1>
-    <div class="post-date" data-aos="fade-left" data-aos-delay="300" data-aos-offset="0">
+    <!--<h1 class="post-title" data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">{{ page.categories }}</h1>
+    <div class="post-date" data-aos="fade-left" data-aos-delay="300" data-aos-offset="0">-->
       <!--<time>{{ page.date | date_to_string }}</time>-->
-      <span class="reading-time" title="Estimated read time">{{ minutesText }}</span>
-    </div>
+      <!--<span class="reading-time" title="Estimated read time">{{ minutesText }}</span>
+    </div>-->
     <!-- titles -->
 
-    <div class="margin-top-20 margin-bottom-50">
+    <!--<div class="margin-top-20 margin-bottom-50">
       {% for post in site.categories.vendas %}
       <div class="flex-basis-400 flex-grow-5">
         <div class="" data-aos="fade-up" data-aos-delay="300" data-aos-offset="0">
@@ -38,7 +40,7 @@ layout: default
     </div>
     {% endfor %}
   </article>
-</div>
+</div>-->
 
     <!-- posts
     <div class="margin-top-20 margin-bottom-50">
