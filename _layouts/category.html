@@ -9,16 +9,18 @@ layout: default
 
 <ul class="post-list">
   {%- for post in site.categories[page.tag] -%}
-    <li>
+    <li class="flex-basis-400 flex-grow-5">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {{ post.date | date: date_format }}
-      <h3>
+      <h3 class="list-post-title">
 
       {{ post.title | escape }}
 
       </h3>
     <!--{% if site.show_excerpts %}-->
-      <span>{{post.description}}</span>
+      <span class="list-post-description">
+        {{post.description}}
+      </span>
     <!--{% endif %}-->
     </li>
   {%- endfor -%}
