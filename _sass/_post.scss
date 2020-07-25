@@ -8,7 +8,7 @@
 .list-item {
   box-shadow: 0 3px 8px 0 rgba(0,0,0,0.03);
   border: 1px solid #C1C1C1;
-  margin-bottom: 20px;
+  margin: 0px 20px;
   padding: 20px;
   box-sizing: border-box;
   border-radius: 4px;
@@ -16,7 +16,7 @@
   overflow: hidden;
   cursor: pointer;
     &:last-child {
-      margin-bottom: 0px;
+      //margin-bottom: 0px;
     }
 
     &:hover {
@@ -31,7 +31,7 @@
     }
 
     .list-post-title {
-      font-size: 22px;
+      //font-size: 22px;
       transition: .3s;
       color: $colortheme;
     }
