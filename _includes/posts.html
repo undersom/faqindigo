@@ -1,9 +1,9 @@
+{{site.categories}}
+
 <div class="">
   {% if site.cat.size == 0 %}
   <h2>No post found</h2>
   {% else %}
-
-  {{site.categories}}
 
   {% for cat in site.categories %}
   <a href="{{site.baseurl}}/category/{{ cat[0] }}" class="list-item container">
