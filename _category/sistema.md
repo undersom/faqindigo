@@ -1,4 +1,4 @@
 ---
 tag: sistema
-permalink: "/category/sistema"
+permalink: "category/sistema"
 ---
