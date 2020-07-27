@@ -20,11 +20,6 @@
   display: flex
 }
 
-.container-flex{
-  text-align: center;
-  flex-wrap: wrap;
-}
-
 .container-line {
   display: inline-flex
 }
