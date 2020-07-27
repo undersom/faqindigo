@@ -8,6 +8,7 @@
 .container-flex{
   text-align: center;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .list-item {
@@ -19,10 +20,10 @@
   border-radius: 80px;
   transition: .3s;
   //overflow: hidden;
-  width: 300px;
+  width: 290px;
   cursor: pointer;
     &:last-child {
-      margin-bottom: 5px;
+      //margin-bottom: 5px;
     }
 
     &:hover {
