@@ -14,10 +14,10 @@
 .list-item {
   box-shadow: 0 3px 8px 0 rgba(0,0,0,0.03);
   border: 1px solid #C1C1C1;
-  //margin: 0px 15px;
-  padding: 20px;
+  margin-bottom: 20px;
+  padding: 15px;
   box-sizing: border-box;
-  border-radius: 80px;
+  border-radius: 8px;
   transition: .3s;
   //overflow: hidden;
   width: 290px;
@@ -38,9 +38,10 @@
     }
 
     .list-post-title {
-      //font-size: 22px;
+      font-size: 1.2rem;
       transition: .3s;
       color: $colortheme;
+      letter-spacing: inherit;
       //padding: 0px 80px;
     }
     .list-post-description {
