@@ -11,7 +11,7 @@
   margin: 0px 15px;
   padding: 20px;
   box-sizing: border-box;
-  border-radius: 4px;
+  border-radius: 80px;
   transition: .3s;
   overflow: hidden;
   cursor: pointer;
@@ -34,6 +34,7 @@
       //font-size: 22px;
       transition: .3s;
       color: $colortheme;
+      padding: 0px 15px;
     }
     .list-post-description {
       font-size: 16px
