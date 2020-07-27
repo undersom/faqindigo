@@ -13,7 +13,7 @@
 }
 
 .header {
-  min-height: 200px;
+  min-height: 150px;
   background: url('../assets/img/pattern2.svg'), rgba($colortheme, 0.9);
   background-size: 310px;
   width: 100%;
@@ -28,7 +28,7 @@
       display: flex;
       align-items: center;
       background: #fff;
-      margin-top: 20px;
+      //margin-top: 20px;
       border-radius: 4px;
       overflow: hidden;
       width: 100%;
@@ -53,7 +53,7 @@
         box-sizing: border-box;
         opacity: 0.5;
         span {
-          color: rgba(0,0,0,1);
+          color: #ff7e00;
         }
       }
 
@@ -68,6 +68,10 @@
       }
     }
   }
+}
+
+#search-input::placeholder{
+  color: #ff7e00;
 }
 
 .position-search {
