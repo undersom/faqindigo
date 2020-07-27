@@ -32,11 +32,11 @@
       border-radius: 4px;
       overflow: hidden;
       width: 100%;
-      opacity: 0.8;
+      opacity: 1;
       transition: 0.3s;
 
       &:focus-within {
-        opacity: 1;
+        font-size: 22px;
         box-shadow: 0 0 20px 1px rgba(0,0,0,.1);
 
         .header--block--input--icon {
