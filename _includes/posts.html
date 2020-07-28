@@ -1,6 +1,6 @@
 <!--{{site.categories}}-->
 
-<div class="container container-flex">
+<div class="container container-flex flex-grow-1">
   {% if site.cat.size == 0 %}
   <h2>No post found</h2>
   {% else %}
@@ -11,7 +11,7 @@
       <span class="feather-icon icon-{{category.icon}}"></span>
     </div>-->
     <div class="flex-grow-1">
-      <div class="">
+      <div class="list">
         <h2 class="list-post-title">
             {{cat[0] | capitalize}}
         </h2>
