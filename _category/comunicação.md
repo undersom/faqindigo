@@ -1,4 +1,4 @@
 ---
 tag: comunicação
-permalink: "category/comunicacao"
+permalink: "category/comunicação"
 ---
