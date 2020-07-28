@@ -1,4 +1,4 @@
 ---
 tag: atualização
-permalink: "category/atualizacao"
+permalink: "category/atualização"
 ---
