@@ -36,7 +36,6 @@
       transition: 0.3s;
 
       &:focus-within {
-        font-weight: bold;
         box-shadow: 0 0 20px 1px rgba(0,0,0,.1);
 
         .header--block--input--icon {
@@ -72,6 +71,7 @@
 }
 
 #search-input::placeholder{
+  font-weight: bold;
   color: #ff7e00;
 }
 
