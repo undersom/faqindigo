@@ -6,21 +6,30 @@
 }
 
 .container-flex{
-  text-align: center;
+  //text-align: center;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
+  display: flex;
+}
+
+.list{
+  witdh: auto;
 }
 
 .list-item {
   box-shadow: 0 3px 8px 0 rgba(0,0,0,0.03);
   border: 1px solid #C1C1C1;
-  margin-bottom: 20px;
+  margin: 5px;
   padding: 15px;
   box-sizing: border-box;
   border-radius: 8px;
   transition: .3s;
+  flex: 1 0;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
   //overflow: hidden;
-  width: 290px;
+  //width: 290px;
   cursor: pointer;
     &:last-child {
       //margin-bottom: 5px;
