@@ -70,6 +70,14 @@
     }
 }
 
+.list-post-title-cat {
+  font-size: 1.2rem;
+  transition: .3s;
+  color: $colortheme;
+  letter-spacing: inherit;
+  //padding: 0px 80px;
+}
+
 blockquote{
   margin: 0px 15px;
   padding: 5px 20px;
