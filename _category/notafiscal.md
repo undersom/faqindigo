@@ -1,4 +1,4 @@
 ---
-tag: nota fiscal
+tag: notafiscal
 permalink: "category/nota-fiscal"
 ---
