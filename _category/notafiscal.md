@@ -1,5 +1,5 @@
 ---
 name: Nota Fiscal
-tag: nota_fiscal
+tag: notafiscal
 permalink: "category/notafiscal"
 ---
