@@ -1,4 +1,4 @@
 ---
-tag: notafiscal
-permalink: "category/notafiscal"
+tag: nota+fiscal
+permalink: "category/nota+fiscal"
 ---
