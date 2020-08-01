@@ -97,10 +97,16 @@ table{
 
 table, th, td{
   border: 1px solid black;
+  font-size: 14px;
 }
 
 th, td{
   padding: 10px;
+}
+
+th{
+  background-color: black;
+  color: white
 }
 
 tr:nth-child(even){
