@@ -29,7 +29,8 @@
   flex-direction: column;
   text-align: center;
   //overflow: hidden;
-  width: 290px;
+  //width: 290px;
+  flex-grow: 1;
   cursor: pointer;
     &:last-child {
       //margin-bottom: 5px;
