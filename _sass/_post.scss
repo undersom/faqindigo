@@ -1,0 +1,128 @@
+.content-post {
+  min-height: calc(100vh - 480px);
+  background: #f3f5f7;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.container-flex{
+  //text-align: center;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  display: flex;
+}
+
+.list{
+  witdh: auto;
+}
+
+.list-item {
+  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.03);
+  border: 1px solid #C1C1C1;
+  margin: 5px;
+  padding: 15px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  transition: .3s;
+  //flex: 1 0;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  //overflow: hidden;
+  //width: 290px;
+  flex-grow: 1;
+  cursor: pointer;
+    &:last-child {
+      //margin-bottom: 5px;
+    }
+
+    &:hover {
+      border-color: $colortheme;
+    }
+
+    .list-item-icon {
+      flex-basis: 100px;
+      padding-right: 20px;
+      font-size: 2rem;
+      color: $colortheme;
+    }
+
+    .list-post-title {
+      font-size: 1.4rem;
+      transition: .3s;
+      color: $colortheme;
+      letter-spacing: inherit;
+      //padding: 0px 80px;
+    }
+    .list-post-description {
+      font-size: 16px
+    }
+
+    .list-post-written {
+      span {
+        font-weight: bold
+
+      }
+    }
+
+    small {
+      font-size: 12px;
+      opacity: .7
+    }
+}
+
+.title-post{
+  font-size: 2.0em;
+  font-weight: bold;
+  line-height: 1.1;
+  color: #000;
+}
+
+blockquote{
+  margin: 0px 15px 20px 15px;
+  padding: 15px 20px 5px 20px;
+  background-color: rgb(58, 56, 56);
+  color: white;
+  font-size: 16px;
+  border-radius: 20px 20px;
+}
+
+.extra{
+  margin: 0px 15px 20px 15px;
+  padding: 15px 20px 5px 20px;
+  background-color: #eae9e9;
+  color: #000;
+  font-size: 14px;
+  box-sizing: border-box;
+  border: 10px solid black;
+  font-size: 20px;
+  //border-radius: 20px 20px;
+}
+
+.img04{
+  margin-bottom: 0px;
+}
+
+.list-item-2 {
+  box-shadow: 0 3px 8px 0 rgba(0,0,0,0.03);
+  border: 1px solid #C1C1C1;
+  padding: 40px;
+  box-sizing: border-box;
+  transition: .3s;
+  margin-bottom: 10px;
+  overflow: hidden;
+  &:hover {
+    border-color: $colortheme;
+    .list-post-title {
+      color: $colortheme;
+    }
+  }
+
+  .list-item-2-img {
+    margin-right: 20px;
+      @media screen and (max-width: 839px) {
+        margin-right: 0;
+        margin-top: 20px;
+      }
+   }
+}
