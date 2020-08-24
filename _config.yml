@@ -37,3 +37,6 @@ defaults:
       type: category
     values:
       layout: "category"
+
+sass:
+    sass_dir: _sass
