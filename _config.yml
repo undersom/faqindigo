@@ -38,7 +38,8 @@ defaults:
     values:
       layout: "category"
 
-
+sass:
+    sass_dir: _sass
 
 plugins:
   - jekyll-coffeescript
