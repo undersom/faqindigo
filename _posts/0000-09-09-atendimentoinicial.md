@@ -12,7 +12,8 @@ questions: "Como fazer o atendimento inicial ao cliente."
 
 Antes mesmo de começar a lançar no sistema é importante saber se o cliente vai fazer apenas uma compra só ou mais de uma.
 
-###Exemplo:
+### Exemplo:
+
 Cliente vai fazer compra de material eleva e de livros paradidáticos para seu filho. **Apesar de ser um aluno só, serão duas vendas distintas.** É muito importante o cliente saber disso antes de iniciar o processo, inclusive por que os pagamentos terão que ser feitos separadamente.
 Informe corretamente os valores ao cliente. **Confira se ele está falando da série certa.** Muitos clientes confundem 3º ano e 3ª Série (por exemplo). Para evitar isso, dê ao cliente uma tabela com os valores, explique sobre o parcelamento no cartão de crédito (de acordo com o que seu supervisor lhe passou) e como funciona o desconto à vista. Estando tudo de acordo, é hora de ir para o sistema.
 
