@@ -32,3 +32,8 @@ questions: "Como Localizar o DOC de uma venda"
 5.Por fim selecione o número do DOC e clique o botão direito do mouse selecionando a opção **Copiar**:
 
   ![](../../assets/img/vendas/-08/05.png)
+  {: .img04}
+  >
+  >**Observação**
+  >
+  >É fundamental que no momento que for copiar o DOC utilize o botão direito do mouse, uma vez que o sistema não identifica o atalho Ctrl+V.
