@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Como Lançar uma Venda no Sistema"
-type: "Vendas"
 description: "Lançamento de venda no sistema"
 date:   2017-11-12 17:46:41 -0300
 categories:
