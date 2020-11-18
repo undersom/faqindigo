@@ -3,7 +3,7 @@ layout: post
 title: "Formas de Pagamento"
 description: "Detalhes sobre descontos, métodos em relação as formas de pagamento"
 date:   2017-11-12 17:46:41 -0300
-categories: "vendas"
+categories: "rotina+de+trabalho"
 by: 'Indigo'
 questions: "Procedimentos sobre descontos, métodos, e observações em relação as formas de pagamento"
 ---

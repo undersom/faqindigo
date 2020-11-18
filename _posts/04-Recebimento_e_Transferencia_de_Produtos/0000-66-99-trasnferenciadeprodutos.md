@@ -3,7 +3,7 @@ layout: post
 title: "Como fazer a Transferência de Produtos"
 description: "Transferindo Produtos pelo Sistema"
 date:   2017-11-12 17:46:41 -0300
-categories: "recebimento+e+transferencia+de+produtos"
+categories: "recebimento+e+transferência+de+produtos"
 by: 'Indigo'
 questions: "Transferindo Produtos"
 ---

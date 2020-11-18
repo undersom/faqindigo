@@ -3,7 +3,7 @@ layout: post
 title: "Como Receber Livros da Editora Eleva"
 description: "Recebendo livros da editora eleva"
 date:   2017-11-12 17:46:41 -0300
-categories: "recebimento+e+transferencia+de+produtos"
+categories: "recebimento+e+transferência+de+produtos"
 by: 'Indigo'
 questions: "Recebendo livros da editora eleva"
 ---

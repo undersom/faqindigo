@@ -3,9 +3,7 @@ layout: post
 title: "Venda por Transferência Não Presencial"
 description: "Como fazer uma venda por transferência não presencial"
 date:   2017-11-12 17:46:41 -0300
-categories:
-  - "vendas"
-  - "transferência"
+categories: "vendas"
 by: 'Indigo'
 questions: "Como fazer uma venda por transferência não presencial"
 ---
