@@ -67,10 +67,10 @@ Após isso ele deverá lançar no sistema a nota fiscal.
 >
 >**Observação**
 >
->* Se você for do RJ, o CFOP é 1102.
+> - Se você for do RJ, o CFOP é 1102.
 >
->* Se você for de fora do RJ, o CFOP é 2102.
-> CFOP significa Código Fiscal de Operações e Prestações.
+> - Se você for de fora do RJ, o CFOP é 2102.
+> *CFOP significa Código Fiscal de Operações e Prestações.*
 
 9.Pronto, sua nota fiscal foi lançada.
 
