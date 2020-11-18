@@ -12,15 +12,15 @@ Quando algum livro chegar na sua escola, vindo de uma outra escola ou do escrit�
 
 **Recebendo Transferência:**
 
-1.Acesse o Módulo PDVAdmin:
+1.Acesse o Módulo **PDVAdmin**:
 
 ![](../../assets/img/romaneiodeprodutos/-02/01.png)
 
-2.Clique em "Estoque", em seguida, "Transferência de Produtos":
+2.Clique em **"Estoque"**, em seguida, **"Transferência de Produtos"**:
 
 ![](../../assets/img/romaneiodeprodutos/-02/02.png)
 
-3.Vá até a guia "Sem Confirmação":
+3.Vá até a guia **"Sem Confirmação"**:
 
 ![](../../assets/img/romaneiodeprodutos/-02/03.png)
 {: .img04}
@@ -29,11 +29,11 @@ Quando algum livro chegar na sua escola, vindo de uma outra escola ou do escrit�
 >
 >Quando há alguma transferência de produtos para ser aceita, a guia “Sem Confirmação” fica sinalizada pela cor verde. Repare.
 
-4.Você verá a transferência que fizeram para sua loja. Clique em "Aceitar":
+4.Você verá a transferência que fizeram para sua loja. Clique em **"Aceitar"**:
 
 ![](../../assets/img/romaneiodeprodutos/-02/04.png)
 
-5.Verifiquei se está tudo certo, e clique em "Confirmar":
+5.Verifiquei se está tudo certo, e clique em **"Confirmar"**:
 
 ![](../../assets/img/romaneiodeprodutos/-02/05.png)
 
