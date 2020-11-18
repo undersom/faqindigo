@@ -33,43 +33,43 @@ Após isso ele deverá lançar no sistema a nota fiscal.
   ![](../../assets/img/romaneiodeprodutos/-03/04.png)
   {: .img04}
   >
-  >   * **Natureza Operação:** Compras C/ Estoque
+  >**Natureza Operação:** Compras C/ Estoque
   >
-  >   * **Fornecedor:** Eleva Educação
+  >**Fornecedor:** Eleva Educação
   >
-  >   * **Nª da Nota:** Veja o número da nota fiscal que você receber.
+  >**Nª da Nota:** Veja o número da nota fiscal que você receber.
   >
-  >   * **Série:** Veja o número de série na Nota.
+  >**Série:** Veja o número de série na Nota.
   >
-  >   * **Modelo:** NFe.
+  >**Modelo:** NFe.
   >
-  >   * **Emissão:** Veja a data de emissão que consta na nota.
+  >**Emissão:** Veja a data de emissão que consta na nota.
   >
-  >   * **D. Entrada:** Dia que você recebeu o material na escola.
+  >**D. Entrada:** Dia que você recebeu o material na escola.
   >
 
-5.Clique dentro da caixa "Código", e tecle F3:
+5.Clique dentro da caixa **"Código"**, e tecle F3:
 
 ![](../../assets/img/romaneiodeprodutos/-03/05.png)
 
-6.Pesquise os produtos da sua escola(1). Após isso adicione a quantidade dos produtos(2) que chegaram, de acordo com a referentes nota fiscal. Em seguida clique em "Confirmar":
+6.Pesquise os produtos da sua escola **(1)**. Após isso adicione a quantidade dos produtos **(2)** que chegaram, de acordo com a referentes nota fiscal. Em seguida clique em **"Confirmar"**:
 
 ![](../../assets/img/romaneiodeprodutos/-03/06.png)
 
-7.Após clicar em "Confirmar", você será levado à esta tela, onde deixará em 0,00. Em seguida, clique em "Confirmar" até que ela pare de aparecer:
+7.Após clicar em **"Confirmar"**, você será levado à esta tela, onde deixará em 0,00. Em seguida, clique em **"Confirmar"** até que ela pare de aparecer:
 
 ![](../../assets/img/romaneiodeprodutos/-03/07.png)
 
-8.Insira o CFOP de cada produto. Ao terminar, clique em "Confirmar":
+8.Insira o CFOP de cada produto. Ao terminar, clique em **"Confirmar"**:
 
 ![](../../assets/img/romaneiodeprodutos/-03/08.png)
 {: .img04}
 >
 >**Observação**
 >
-> - Se você for do RJ, o CFOP é 1102.
+>Se você for do RJ, o CFOP é 1102.
 >
-> - Se você for de fora do RJ, o CFOP é 2102.
+>Se você for de fora do RJ, o CFOP é 2102.
 >
 >*CFOP significa Código Fiscal de Operações e Prestações.*
 
