@@ -3,7 +3,7 @@ layout: post
 title: "Cancelando Nota Fiscal (NFE)"
 description: "Como cancelar uma nota fiscal"
 date:   2017-11-12 17:46:41 -0300
-categories: "nota+fiscal"
+categories: "Nota+Fiscal"
 by: 'Indigo'
 questions: "Como cancelar uma nota fiscal"
 ---

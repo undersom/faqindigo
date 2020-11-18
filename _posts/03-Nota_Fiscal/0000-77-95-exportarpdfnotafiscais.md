@@ -3,7 +3,7 @@ layout: post
 title: "Como Exportar o PDF de Notas Fiscais"
 description: "Exportando PDF de Notas Fiscais"
 date:   2017-11-12 17:46:41 -0300
-categories: "nota+fiscal"
+categories: "Nota+Fiscal"
 by: 'Indigo'
 questions: "Exportando PDF de Notas Fiscais"
 ---

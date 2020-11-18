@@ -3,7 +3,7 @@ layout: post
 title: "Imprimir Nota Fiscal (NFE)"
 description: "Como imprimir uma nota fiscal solicitada pelo cliente"
 date:   2017-11-12 17:46:41 -0300
-categories: "nota+fiscal"
+categories: "Nota+Fiscal"
 by: 'Indigo'
 questions: "Como imprimir uma nota fiscal solicitada pelo cliente"
 ---
