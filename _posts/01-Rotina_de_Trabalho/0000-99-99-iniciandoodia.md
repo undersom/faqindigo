@@ -14,9 +14,9 @@ Ao chegar no seu local de trabalho, crie o hábito de se antecipar às necessida
 
 2 – Abra o navegador de internet e deixe os seguintes sites abertos:
 
-  * **Correios:** para poder pesquisar CEP
-  * **E-mail locaweb:** seu e-mail de trabalho deve ficar aberto para facilitar sua comunicação.
-  * **FAQ Indigo:** Sua central de ajuda a qualquer instante.
+ • **Correios:** para poder pesquisar CEP
+ • **E-mail locaweb:** seu e-mail de trabalho deve ficar aberto para facilitar sua comunicação.
+ • **FAQ Indigo:** Sua central de ajuda a qualquer instante.
 
 3 – Deixe sua planilha de controle de das vendas aberta.
 
