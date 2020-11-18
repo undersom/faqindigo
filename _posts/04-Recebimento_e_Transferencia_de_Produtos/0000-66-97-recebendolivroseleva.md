@@ -33,19 +33,19 @@ Após isso ele deverá lançar no sistema a nota fiscal.
   ![](../../assets/img/romaneiodeprodutos/-03/04.png)
   {: .img04}
   >
-  >   * **Natureza Operação:**Compras C/ Estoque
+  >   * **Natureza Operação:** Compras C/ Estoque
   >
-  >   * **Fornecedor:**Eleva Educação
+  >   * **Fornecedor:** Eleva Educação
   >
-  >   * **Nª da Nota:**Veja o número da nota fiscal que você receber.
+  >   * **Nª da Nota:** Veja o número da nota fiscal que você receber.
   >
-  >   * **Série:**Veja o número de série na Nota.
+  >   * **Série:** Veja o número de série na Nota.
   >
-  >   * **Modelo:**NFe.
+  >   * **Modelo:** NFe.
   >
-  >   * **Emissão:**Veja a data de emissão que consta na nota.
+  >   * **Emissão:** Veja a data de emissão que consta na nota.
   >
-  >   * **D. Entrada:**Dia que você recebeu o material na escola.
+  >   * **D. Entrada:** Dia que você recebeu o material na escola.
   >
 
 5.Clique dentro da caixa "Código", e tecle F3:
@@ -70,7 +70,8 @@ Após isso ele deverá lançar no sistema a nota fiscal.
 > - Se você for do RJ, o CFOP é 1102.
 >
 > - Se você for de fora do RJ, o CFOP é 2102.
-> *CFOP significa Código Fiscal de Operações e Prestações.*
+>
+>*CFOP significa Código Fiscal de Operações e Prestações.*
 
 9.Pronto, sua nota fiscal foi lançada.
 
