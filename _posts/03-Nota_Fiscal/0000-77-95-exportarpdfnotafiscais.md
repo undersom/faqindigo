@@ -8,11 +8,11 @@ by: 'Indigo'
 questions: "Exportando PDF de Notas Fiscais"
 ---
 
-1.Acesse o Módulo PDVAdmin:
+1.Acesse o Módulo **PDVAdmin**:
 
  ![](../../assets/img/notasfiscais/-05/01.png)
 
-2.Clique em "Cadastro Geral", em seguida, "Vendas":
+2.Clique em **"Cadastro Geral"**, em seguida, **"Vendas"**:
 
 ![](../../assets/img/notasfiscais/-05/02.png)
 
@@ -24,19 +24,19 @@ questions: "Exportando PDF de Notas Fiscais"
 
  ![](../../assets/img/notasfiscais/-05/04.png)
 
-5.Retorne ao PDVAdmin e clique na opção "Nota Fiscal Eletrônica", em seguida, "Nota Fiscal Eletrônica (NFe)":
+5.Retorne ao **PDVAdmin** e clique na opção **"Nota Fiscal Eletrônica"**, em seguida, **"Nota Fiscal Eletrônica (NFe)"**:
 
  ![](../../assets/img/notasfiscais/-05/05.png)
 
- 6.Preencha os campos indicados com o número de Nota Fiscal e depois clique em "Pesquisar":
+ 6.Preencha os campos indicados com o número de Nota Fiscal e depois clique em **"Pesquisar"**:
 
  ![](../../assets/img/notasfiscais/-05/06.png)
 
- 7.Ao entrar na Nota Fiscal selecione a opção "Export Document...":
+ 7.Ao entrar na Nota Fiscal selecione a opção **"Export Document..."**:
 
  ![](../../assets/img/notasfiscais/-05/07.png)
 
- 8.Nessa janela que abrirá, clique em "OK":
+ 8.Nessa janela que abrirá, clique em **"OK"**:
 
   ![](../../assets/img/notasfiscais/-05/08.png)
 

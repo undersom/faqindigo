@@ -39,11 +39,11 @@ Vale aqui a seguinte observação: enviar a nota para a SEFAZ é um processo ind
 ### Passo-a-passo Gerar NFE
 
 
-1.Acesse o PDVAdmin
+1.Acesse o **PDVAdmin**:
 
   ![](../../assets/img/notasfiscais/-01/01.png)
 
-2.Vá em "Cadastro Geral" e em seguida em "Vendas"
+2.Vá em **"Cadastro Geral"** e em seguida em **"Vendas"**
 
   ![](../../assets/img/notasfiscais/-01/02.png)
 
@@ -65,15 +65,15 @@ Vale aqui a seguinte observação: enviar a nota para a SEFAZ é um processo ind
 
 É importante que depois você faça o envio conjunto das notas para os clientes. O processo é simples:
 
-1.Acesse o PDVECF.
+1.Acesse o **PDVECF**.
 
   ![](../../assets/img/notasfiscais/-01/08.png)
 
-2.Vá em *"5-NFE"*, e em seguida clique em *"Enviar Email de NFE para cliente"*
+2.Vá em **"5-NFE"**, e em seguida clique em **"Enviar Email de NFE para cliente"**
 
   ![](../../assets/img/notasfiscais/-01/09.png)
 
-3.Em *Procurar por"*, selecione *"Data de Emissão"*. Preencha os campos, em seguida clique em **"Pesquisar"**
+3.Em **Procurar por"**, selecione **"Data de Emissão"**. Preencha os campos, em seguida clique em **"Pesquisar"**
 
   ![](../../assets/img/notasfiscais/-01/10.gif)
 

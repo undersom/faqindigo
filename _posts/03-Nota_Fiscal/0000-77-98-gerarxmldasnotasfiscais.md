@@ -10,7 +10,7 @@ questions: "Gerando XML das notas fiscais (NFE) para envio do setor financeiro"
 
 Assim que um mês termina, é importante que até o dia 3 do mês seguinte, o vendedor gere um arquivo XML das notas referentes ao mês que acabou de terminar, ou seja, o mês anterior. Para fazer isso, siga o passo-a-passo que será mostrado:
 
-1.Abra o PDVECF.
+1.Abra o **PDVECF**.
 
   ![](../../assets/img/notasfiscais/-02/01.png)
 
@@ -34,11 +34,11 @@ Assim que um mês termina, é importante que até o dia 3 do mês seguinte, o ve
 
   ![](../../assets/img/notasfiscais/-02/06.1.png)
 
-7.Clique em procurar.
+7.Clique em **"Procurar"**.
 
   ![](../../assets/img/notasfiscais/-02/07.gif)
 
-8.Clique em Exportar.
+8.Clique em **"Exportar"**.
 
   ![](../../assets/img/notasfiscais/-02/08.gif)
 

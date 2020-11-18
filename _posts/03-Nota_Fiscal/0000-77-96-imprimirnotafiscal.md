@@ -18,11 +18,9 @@ O processo é simples, mas é preciso atenção.
     * Com o CPF do cliente localize seu registro.
     * No registro do cliente, localize a compra dele.
     * No registro da vendas, localize a venda do cliente. Acesse a venda com dois cliques.
-    * Dentro da venda do cliente, você localiza o nº da nota fiscal.
+    * Dentro da venda do cliente, você localiza o nº da nota fiscal. (Por este número é possível localizar a NFE para a impressão.)
 
-Por este número é possível localizar a NFE para a impressão.
-
-Passo a passo de como usar o número da NFE para sua localização e impressão:
+### Passo a passo de como usar o número da NFE para sua localização e impressão:
 
 1.Dentro da venda do cliente, localize o número da nota.
 

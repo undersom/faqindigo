@@ -12,7 +12,7 @@ Em casos de necessidade de cancelar uma NFE, este processo, diferente do cancela
 
 ### Passo-a-passo cancelar NFE:
 
-1.Acesse o PDVECF.
+1.Acesse o **PDVECF**.
 
   ![](../../assets/img/notasfiscais/-03/01.png)
 
@@ -45,4 +45,4 @@ Lembrando que em cancelamento de venda, apenas o acesso do supervisor é que per
 Nunca se esqueça de que se excluir a venda primeiro (antes de cancelar a NFE), **será impossível cancelar a NFE**.
 Ou seja, cancele a NFE primeiro e depois a venda (se for o necessário).
 
-Dúvidas? Fale com seu supervisor.
+**Dúvidas? Fale com seu supervisor.**
