@@ -1,4 +1,4 @@
----
+
 layout: post
 title: "Atendimento Inicial"
 type: "Vendas"
@@ -8,7 +8,7 @@ categories:
  - "vendas"
 by: 'Indigo'
 questions: "Como fazer o atendimento inicial ao cliente."
----
+
 
 Antes mesmo de começar a lançar no sistema é importante saber se o cliente vai fazer apenas uma compra só ou mais de uma.
 
