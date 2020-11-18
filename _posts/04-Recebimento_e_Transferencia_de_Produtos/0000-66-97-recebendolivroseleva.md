@@ -8,7 +8,7 @@ by: 'Indigo'
 questions: "Recebendo livros da editora eleva"
 ---
 
-Quando a Eleva entregar os livros na escola, o vendedor já sabe que precisa assinar a nota fiscal e tem até 72 horas para conferir o material que chegou.
+Quando a Eleva entregar os livros na escola, o vendedor já sabe que precisa assinar a nota fiscal e tem até **72 horas** para conferir o material que chegou.
 
 Após isso ele deverá lançar no sistema a nota fiscal.
 >
@@ -16,30 +16,37 @@ Após isso ele deverá lançar no sistema a nota fiscal.
 >
 >Não precisará lançar os dados de Livro do Professor (LP), simulados e avaliações. Lance MD, LIV, Artes, TEC, Espanhol, Inglês ...
 
-1.Acesse o Módulo PDVAdmin:
+1.Acesse o Módulo **PDVAdmin**:
 
 ![](../../assets/img/romaneiodeprodutos/-03/01.png)
 
-2.Clique em "Estoque", em seguida, "Entrada de Notas":
+2.Clique em **"Estoque"**, em seguida, **"Entrada de Notas"**:
 
 ![](../../assets/img/romaneiodeprodutos/-03/02.png)
 
-3.Clique em "Incluir":
+3.Clique em **"Incluir"**:
 
 ![](../../assets/img/romaneiodeprodutos/-03/03.png)
 
 4.Preencha os campos necessários:
 
-![](../../assets/img/romaneiodeprodutos/-03/04.png)
-{: .img04}
->
->* **Natureza Operação:**Compras C/ Estoque
->* **Fornecedor:**Eleva Educação
->* **Nª da Nota:**Veja o número da nota fiscal que você receber.
->* **Série:**Veja o número de série na Nota.
->* **Modelo:**NFe.
->* **Emissão:**Veja a data de emissão que consta na nota.
->* **D. Entrada:**Dia que você recebeu o material na escola.
+  ![](../../assets/img/romaneiodeprodutos/-03/04.png)
+  {: .img04}
+  >
+  >* **Natureza Operação:**Compras C/ Estoque
+  >
+  >* **Fornecedor:**Eleva Educação
+  >
+  >* **Nª da Nota:**Veja o número da nota fiscal que você receber.
+  >
+  >* **Série:**Veja o número de série na Nota.
+  >
+  >* **Modelo:**NFe.
+  >
+  >* **Emissão:**Veja a data de emissão que consta na nota.
+  >
+  >* **D. Entrada:**Dia que você recebeu o material na escola.
+  >
 
 5.Clique dentro da caixa "Código", e tecle F3:
 
