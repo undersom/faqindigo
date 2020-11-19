@@ -23,20 +23,20 @@ Toda vez que acontecer uma nova entrada que não seja por venda (tipo fundo de c
 É importante também, entender que além disso, todas as saídas devem ser lançadas, para que não haja diferença no seu caixa.
 
 <span style="color:blue">
-Vamos a um exemplo prático:
+Vamos a um exemplo prático:</span>
 
-*Na segunda-feira você vai começar seu primeiro dia de atendimento. Consequentemente você ainda não fez nenhuma venda. É padrão da Índigo, que você tenha em caixa sempre o mínimo de R$ 100,00 para dar troco aos clientes. Chamamos isso de fundo de caixa. O que você deve fazer assim que abrir o sistema? Lançar estes R$ 100,00 que estão em seu caixa.*
+<span style="color:blue">*Na segunda-feira você vai começar seu primeiro dia de atendimento. Consequentemente você ainda não fez nenhuma venda. É padrão da Índigo, que você tenha em caixa sempre o mínimo de R$ 100,00 para dar troco aos clientes. Chamamos isso de fundo de caixa. O que você deve fazer assim que abrir o sistema? Lançar estes R$ 100,00 que estão em seu caixa.*</span>
 
 
-*Durante o dia, você fez diversas vendas. Em dinheiro entraram R$ 3.100,00. O dia terminou, ninguém passou para recolher dinheiro e você fechou o seu caixa. No dia seguinte (terça-feira) você está novamente iniciando seu caixa (tal como fez no dia anterior). O que você deve fazer assim que abrir o sistema? Lançar o seu valor de caixa. A grande questão é: quanto você deve lançar?*
+<span style="color:blue">*Durante o dia, você fez diversas vendas. Em dinheiro entraram R$ 3.100,00. O dia terminou, ninguém passou para recolher dinheiro e você fechou o seu caixa. No dia seguinte (terça-feira) você está novamente iniciando seu caixa (tal como fez no dia anterior). O que você deve fazer assim que abrir o sistema? Lançar o seu valor de caixa. A grande questão é: quanto você deve lançar?*</span>
 
-*Bem, se você tinha R$ 100,00 e entraram R$ 3.100,00, seu total em caixa é de R$ 3.200,00. Este é o valor que deve ser lançado, pois é exatamente a quantia que tu tens em mãos.*
+<span style="color:blue">*Bem, se você tinha R$ 100,00 e entraram R$ 3.100,00, seu total em caixa é de R$ 3.200,00. Este é o valor que deve ser lançado, pois é exatamente a quantia que tu tens em mãos.*</span>
 
-*Suponha-se que nesta terça-feira entraram mais R$ 2.000,00, só que no fim do dia, o seu supervisor chega para fazer a sangria (processo de conferência e retirada de dinheiro). Qual seu procedimento no sistema? Você deve ir lá em caixa / despesa e lançar esta saída que está acontecendo. Mas quanto você deve lançar de saída? Vamos ao cálculo:*
+<span style="color:blue">*Suponha-se que nesta terça-feira entraram mais R$ 2.000,00, só que no fim do dia, o seu supervisor chega para fazer a sangria (processo de conferência e retirada de dinheiro). Qual seu procedimento no sistema? Você deve ir lá em caixa / despesa e lançar esta saída que está acontecendo. Mas quanto você deve lançar de saída? Vamos ao cálculo:*</span>
 
-*R$ 100,00 (Fundo) + R$ 3.100,00 (vendas na segunda-feira) + R$ 2.000,00 (vendas na terça-feira). Isso nos dá um total de R$ 5.200,00.*
+<span style="color:blue">*R$ 100,00 (Fundo) + R$ 3.100,00 (vendas na segunda-feira) + R$ 2.000,00 (vendas na terça-feira). Isso nos dá um total de R$ 5.200,00.*</span>
 
-*Contudo não podemos esquecer que R$ 100,00 são para o fundo de caixa. Logo, o seu supervisor só deverá fazer a sangria dos valores referentes a venda, ou seja, R$ 5.100,00. Este deverá ser o valor que você lançará como Despesa, pois é algo que está saindo.*
+<span style="color:blue">*Contudo não podemos esquecer que R$ 100,00 são para o fundo de caixa. Logo, o seu supervisor só deverá fazer a sangria dos valores referentes a venda, ou seja, R$ 5.100,00. Este deverá ser o valor que você lançará como Despesa, pois é algo que está saindo.*
 </span>
 
 Tudo que entra é receita, tudo que sai é despesa. Neste exemplo que citamos, a despesa está sendo a sangria que está sendo feita. Estão saindo R$ 5.100,00.
