@@ -11,6 +11,7 @@ questions: "Vendendo Livros Didáticos e Paradidáticos"
 Com todas as etapas de venda terminada, colocamos a nossa via do contrato numa pasta de nome **(VENDAS DO DIA)**, para que até o fim do dia as vendas possam ser separadas da seguinte forma:
 
 • Vendas em dinheiro precisam seguir para a pasta de nome **(SANGRIA)**;
+
 • Vendas em cartão para a pasta de nome **(NOTA FISCAL)**.
 
 
