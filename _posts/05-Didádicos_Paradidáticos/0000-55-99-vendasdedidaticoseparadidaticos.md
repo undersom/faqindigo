@@ -12,17 +12,16 @@ As vendas dos livros didáticos e paradidáticos é uma **venda que ocorre à pa
 Não pode ser incluída na venda do eleva, independentemente de ser um ou mais livros, um novo contrato precisa ser gerado e a forma de pagamento também segue outro parcelamento já previamente informado ao vendedor.
 
 
-1.**Atendimento Inicial**
+**1.Atendimento Inicial**
 
 Quando o cliente chegar no stand, devemos **ofertar todos os materiais que trabalhamos**. Para melhor entendimento e facilidade, mostramos a listagem que contém todos os livros separados por série, seguido de seus respectivos preços e formas de pagamento.
 
-**Após a escolha do(s) livro(s), recebemos o pagamento do cliente ($$, cartão ou transferência).**
+**Após a escolha do(s) livro(s), recebemos o pagamento do cliente (Dinheiro, cartão de crédito/débito ou transferência).**
 
 Após o pagamento aprovado, fazemos o lançamento do(s) livro(s) no sistema.
 
 
-
-2.**Contrato**
+**2.Contrato**
 
 Ao iniciar a venda no sistema, chegando no campo **observação** que consta no contrato, devemos **escrever o nome completo do aluno**, para que na primeira página do contrato possamos visualizar o nome do aluno com facilidade.
 
