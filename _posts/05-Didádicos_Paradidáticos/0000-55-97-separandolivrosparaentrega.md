@@ -18,16 +18,16 @@ Para começar a separação, vamos na série desejada e olhamos da primeira para
 <span style="color:blue">Para melhor entendimento segue um exemplo a seguir:</span>
 
 <span style="color:blue">
-*Chegou na escola 5 livros de título “Iracema” que é um livro utilizado no 2º do fundamental 1.*
+*Chegou na escola 5 livros de título “Iracema” que é um livro utilizado no 2º do fundamental 1.*</span>
 
-*Ao iniciar a separação, os dois primeiros clientes não comparam este título, então eles continuaram na ordem de compra, porém na separação deste título, eles não terão nenhum livro separado.*
+<span style="color:blue">*Ao iniciar a separação, os dois primeiros clientes não comparam este título, então eles continuaram na ordem de compra, porém na separação deste título, eles não terão nenhum livro separado.*</span>
 
-*Seguindo a ordem de compra, vou para o terceiro cliente e verifico quantas vendas tem deste título em diante. Neste exemplo, tem 7 vendas, faltando assim 2 livros. Os clientes que irão receber os livros serão os 5 primeiros comprantes.*</span>
+<span style="color:blue">*Seguindo a ordem de compra, vou para o terceiro cliente e verifico quantas vendas tem deste título em diante. Neste exemplo, tem 7 vendas, faltando assim 2 livros. Os clientes que irão receber os livros serão os 5 primeiros comprantes.*</span>
 
 <span style="color:blue">
-*A cada livro separado, vou no contrato do cliente e faço um traço (–) de vermelho, ou qualquer outra cor de caneta ao lado do título do livro, isso significa que o livro chegou e está separado na sacola com o nome e série do aluno para ser entregue.*
+*A cada livro separado, vou no contrato do cliente e faço um traço (–) de vermelho, ou qualquer outra cor de caneta ao lado do título do livro, isso significa que o livro chegou e está separado na sacola com o nome e série do aluno para ser entregue.*</span>
 
-*Se chegaram 2 livros, farei um traço (-) ao cada de cada título e assim sucessivamente. A cada livro separado um traço (-) ao lado do título.*</span>
+<span style="color:blue">*Se chegaram 2 livros, farei um traço (-) ao cada de cada título e assim sucessivamente. A cada livro separado um traço (-) ao lado do título.*</span>
 
 <span style="color:blue">
 *Acabada a separação de todos os livros pertencentes aquela série, volto com os contratos para a caixa, seguindo a ordem de compra, para que quando o cliente procure o livro(s), o vendedor ao olhar o contrato saberá que, o livro separado e pronto para ser entregue tem traço (-), o livro que não tem o traço (-) é porque não chegou e/ou não foi separado ainda.*</span>
